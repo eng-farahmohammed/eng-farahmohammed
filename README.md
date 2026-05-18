@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39A7FF&center=true&vCenter=true&width=500&height=80&lines=%3CHello+Coders%2F%3E;Welcome+to+my+Profile!" alt="Hello Coders" />
 </p>
 
-<h1 align="center">Farah Mohamed Al-Azzami | فرح محمد العزامي 👋</h1>
+
+<h1 align="center">Farah Mohamed Al-Azzami |  👋</h1>
 
 <p align="center">
   <strong>💻 Software Engineer & Web Developer | ✨ Coding Community Enthusiast</strong>
